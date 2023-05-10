@@ -1,0 +1,2 @@
+#!/bin/bash
+node /c/Code/acetools/dist/cli.js "$@"

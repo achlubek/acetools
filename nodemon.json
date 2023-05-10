@@ -1,0 +1,8 @@
+{
+  "verbose": true,
+  "watch": ["*.*", "src", ".env"],
+  "ignore": ["dist", "src/reflectionData.ts"],
+  "ext": "ts,js,json",
+  "exec": "yarn dev",
+  "delay": 1000
+}
